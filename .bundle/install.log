@@ -1,0 +1,691 @@
+# Logfile created on 2014-01-26 06:52:17 +0100 by logger.rb/44203
+I, [2014-01-26T06:52:17.566448 #6606]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-26T06:52:17.567296 #6606]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+E, [2014-01-26T06:52:17.568991 #6606] ERROR -- : Bundler::GemNotFound: Could not find minitest-4.7.5.gem for installation
+/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:149:in `cached_gem'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:84:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <main>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<main>'
+I, [2014-01-26T06:58:18.633852 #7035]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-26T06:58:18.639744 #7035]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+E, [2014-01-26T06:58:18.640797 #7035] ERROR -- : Bundler::GemNotFound: Could not find minitest-4.7.5.gem for installation
+/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:149:in `cached_gem'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:84:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-01-26T07:04:44.042387 #7053]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-26T07:04:44.056543 #7053]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-26T07:04:44.138135 #7053]  INFO -- : 0:  minitest (4.7.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-26T07:04:44.138777 #7053]  INFO -- : 0:  multi_json (1.8.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-26T07:04:44.139734 #7053]  INFO -- : 0:  atomic (1.1.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-26T07:04:44.140556 #7053]  INFO -- : 0:  thread_safe (0.1.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-26T07:04:44.144336 #7053]  INFO -- : 0:  tzinfo (0.3.38) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-26T07:04:44.151972 #7053]  INFO -- : 0:  activesupport (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-26T07:04:44.152806 #7053]  INFO -- : 0:  builder (3.1.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-26T07:04:44.153680 #7053]  INFO -- : 0:  erubis (2.7.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-26T07:04:44.154696 #7053]  INFO -- : 0:  rack (1.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-26T07:04:44.157054 #7053]  INFO -- : 0:  rack-test (0.6.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-26T07:04:44.162393 #7053]  INFO -- : 0:  actionpack (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-26T07:04:44.163214 #7053]  INFO -- : 0:  mime-types (1.25.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-26T07:04:44.164601 #7053]  INFO -- : 0:  polyglot (0.3.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-26T07:04:44.165574 #7053]  INFO -- : 0:  treetop (1.4.15) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-26T07:04:44.166088 #7053]  INFO -- : 0:  mail (2.5.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-26T07:04:44.172564 #7053]  INFO -- : 0:  actionmailer (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-26T07:04:44.173511 #7053]  INFO -- : 0:  activemodel (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-26T07:04:44.174014 #7053]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-26T07:04:44.174661 #7053]  INFO -- : 0:  arel (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-26T07:04:44.175106 #7053]  INFO -- : 0:  activerecord (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-26T07:04:44.175676 #7053]  INFO -- : 0:  bundler (1.5.0) from /home/dragon/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-01-26T07:04:44.176092 #7053]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-26T07:04:44.176546 #7053]  INFO -- : 0:  execjs (2.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-26T07:04:44.176886 #7053]  INFO -- : 0:  coffee-script (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-26T07:04:44.185544 #7053]  INFO -- : 0:  thor (0.18.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-26T07:04:44.186838 #7053]  INFO -- : 0:  railties (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-26T07:04:54.900665 #7053]  INFO -- : 0:  coffee-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-26T07:04:54.901543 #7053]  INFO -- : 0:  hike (1.2.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-26T07:05:04.729076 #7053]  INFO -- : 0:  jbuilder (1.5.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-26T07:05:04.729948 #7053]  INFO -- : 0:  jquery-rails (3.0.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-26T07:05:07.712001 #7053]  INFO -- : 0:  json (1.8.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-01-26T07:05:07.715511 #7053]  INFO -- : 0:  tilt (1.4.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-26T07:05:07.716784 #7053]  INFO -- : 0:  sprockets (2.10.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-26T07:05:07.717951 #7053]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-26T07:05:07.719105 #7053]  INFO -- : 0:  rails (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-01-26T07:05:22.462193 #7053]  INFO -- : 0:  rdoc (4.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-01-26T07:05:34.385270 #7053]  INFO -- : 0:  sass (3.2.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-01-26T07:05:44.710117 #7053]  INFO -- : 0:  sass-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-26T07:06:00.300202 #7053]  INFO -- : 0:  sdoc (0.4.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-01-26T07:06:00.300976 #7053]  INFO -- : 0:  sqlite3 (1.3.8) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-01-26T07:06:14.768918 #7053]  INFO -- : 0:  turbolinks (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.0.gemspec
+I, [2014-01-26T07:06:14.770292 #7053]  INFO -- : 0:  uglifier (2.4.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-26T17:07:26.428350 #14735]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-26T17:07:26.433162 #14735]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-26T17:07:26.464123 #14735]  INFO -- : 0:  minitest (4.7.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-26T17:07:26.464926 #14735]  INFO -- : 0:  multi_json (1.8.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-26T17:07:26.465614 #14735]  INFO -- : 0:  atomic (1.1.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-26T17:07:26.466211 #14735]  INFO -- : 0:  thread_safe (0.1.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-26T17:07:26.466769 #14735]  INFO -- : 0:  tzinfo (0.3.38) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-26T17:07:26.467662 #14735]  INFO -- : 0:  activesupport (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-26T17:07:26.468232 #14735]  INFO -- : 0:  builder (3.1.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-26T17:07:26.469467 #14735]  INFO -- : 0:  erubis (2.7.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-26T17:07:26.469968 #14735]  INFO -- : 0:  rack (1.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-26T17:07:26.471103 #14735]  INFO -- : 0:  rack-test (0.6.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-26T17:07:26.471958 #14735]  INFO -- : 0:  actionpack (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-26T17:07:26.472557 #14735]  INFO -- : 0:  mime-types (1.25.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-26T17:07:26.473750 #14735]  INFO -- : 0:  polyglot (0.3.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-26T17:07:26.474630 #14735]  INFO -- : 0:  treetop (1.4.15) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-26T17:07:26.475281 #14735]  INFO -- : 0:  mail (2.5.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-26T17:07:26.475808 #14735]  INFO -- : 0:  actionmailer (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-26T17:07:26.476342 #14735]  INFO -- : 0:  activemodel (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-26T17:07:26.476871 #14735]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-26T17:07:26.477399 #14735]  INFO -- : 0:  arel (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-26T17:07:26.478155 #14735]  INFO -- : 0:  activerecord (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-26T17:07:26.478975 #14735]  INFO -- : 0:  bundler (1.5.0) from /home/dragon/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-01-26T17:07:26.479664 #14735]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-26T17:07:26.480411 #14735]  INFO -- : 0:  execjs (2.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-26T17:07:26.488783 #14735]  INFO -- : 0:  coffee-script (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-26T17:07:26.489465 #14735]  INFO -- : 0:  thor (0.18.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-26T17:07:26.489960 #14735]  INFO -- : 0:  railties (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-26T17:07:26.490419 #14735]  INFO -- : 0:  coffee-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-26T17:07:39.814810 #14735]  INFO -- : 0:  diff-lcs (1.2.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-01-26T17:07:39.815464 #14735]  INFO -- : 0:  hike (1.2.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-26T17:07:39.815996 #14735]  INFO -- : 0:  jbuilder (1.5.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-26T17:07:39.816368 #14735]  INFO -- : 0:  jquery-rails (3.0.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-26T17:07:41.486031 #14735]  INFO -- : 0:  json (1.8.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-01-26T17:07:41.487824 #14735]  INFO -- : 0:  tilt (1.4.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-26T17:07:41.489601 #14735]  INFO -- : 0:  sprockets (2.10.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-26T17:07:41.490247 #14735]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-26T17:07:41.491101 #14735]  INFO -- : 0:  rails (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-01-26T17:07:41.492029 #14735]  INFO -- : 0:  rdoc (4.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-01-26T17:07:58.001287 #14735]  INFO -- : 0:  rspec-support (3.0.0.beta1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-support-3.0.0.beta1.gemspec
+I, [2014-01-26T17:08:29.545140 #14735]  INFO -- : 0:  rspec-expectations (3.0.0.beta1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-3.0.0.beta1.gemspec
+I, [2014-01-26T17:08:43.040978 #14735]  INFO -- : 0:  rspec-collection_matchers (0.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-collection_matchers-0.0.2.gemspec
+I, [2014-01-26T17:08:59.714163 #14735]  INFO -- : 0:  rspec-core (3.0.0.beta1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-core-3.0.0.beta1.gemspec
+I, [2014-01-26T17:09:27.675938 #14735]  INFO -- : 0:  rspec-mocks (3.0.0.beta1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-3.0.0.beta1.gemspec
+I, [2014-01-26T17:09:49.488850 #14735]  INFO -- : 0:  rspec-rails (3.0.0.beta1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-rails-3.0.0.beta1.gemspec
+I, [2014-01-26T17:09:49.489804 #14735]  INFO -- : 0:  sass (3.2.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-01-26T17:09:49.490263 #14735]  INFO -- : 0:  sass-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-26T17:09:49.490641 #14735]  INFO -- : 0:  sdoc (0.4.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-01-26T17:09:49.491011 #14735]  INFO -- : 0:  sqlite3 (1.3.8) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-01-26T17:09:49.491657 #14735]  INFO -- : 0:  turbolinks (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.0.gemspec
+I, [2014-01-26T17:09:49.492021 #14735]  INFO -- : 0:  uglifier (2.4.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-26T17:33:18.534150 #15459]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-26T17:33:18.535913 #15459]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-26T17:33:18.584000 #15459]  INFO -- : 0:  minitest (4.7.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-26T17:33:18.584483 #15459]  INFO -- : 0:  multi_json (1.8.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-26T17:33:18.585023 #15459]  INFO -- : 0:  atomic (1.1.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-26T17:33:18.585524 #15459]  INFO -- : 0:  thread_safe (0.1.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-26T17:33:18.586027 #15459]  INFO -- : 0:  tzinfo (0.3.38) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-26T17:33:18.586501 #15459]  INFO -- : 0:  activesupport (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-26T17:33:18.586999 #15459]  INFO -- : 0:  builder (3.1.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-26T17:33:18.587384 #15459]  INFO -- : 0:  erubis (2.7.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-26T17:33:18.587892 #15459]  INFO -- : 0:  rack (1.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-26T17:33:18.588825 #15459]  INFO -- : 0:  rack-test (0.6.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-26T17:33:18.589476 #15459]  INFO -- : 0:  actionpack (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-26T17:33:18.590110 #15459]  INFO -- : 0:  mime-types (1.25.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-26T17:33:18.590598 #15459]  INFO -- : 0:  polyglot (0.3.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-26T17:33:18.591072 #15459]  INFO -- : 0:  treetop (1.4.15) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-26T17:33:18.591553 #15459]  INFO -- : 0:  mail (2.5.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-26T17:33:18.592097 #15459]  INFO -- : 0:  actionmailer (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-26T17:33:18.600708 #15459]  INFO -- : 0:  activemodel (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-26T17:33:18.601405 #15459]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-26T17:33:18.601916 #15459]  INFO -- : 0:  arel (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-26T17:33:18.602356 #15459]  INFO -- : 0:  activerecord (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-26T17:33:18.602748 #15459]  INFO -- : 0:  bundler (1.5.0) from /home/dragon/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-01-26T17:33:38.694564 #15459]  INFO -- : 0:  mini_portile (0.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-26T17:40:18.033276 #15459]  INFO -- : 0:  nokogiri (1.6.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-26T17:40:29.614709 #15459]  INFO -- : 0:  xpath (2.0.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-01-26T17:40:48.651359 #15459]  INFO -- : 0:  capybara (2.2.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-01-26T17:40:48.651919 #15459]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-26T17:40:48.652507 #15459]  INFO -- : 0:  execjs (2.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-26T17:40:48.653236 #15459]  INFO -- : 0:  coffee-script (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-26T17:40:48.653999 #15459]  INFO -- : 0:  thor (0.18.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-26T17:40:48.654711 #15459]  INFO -- : 0:  railties (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-26T17:40:48.655562 #15459]  INFO -- : 0:  coffee-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-26T17:40:48.665731 #15459]  INFO -- : 0:  diff-lcs (1.2.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-01-26T17:40:48.667056 #15459]  INFO -- : 0:  hike (1.2.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-26T17:40:48.667496 #15459]  INFO -- : 0:  jbuilder (1.5.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-26T17:40:48.667849 #15459]  INFO -- : 0:  jquery-rails (3.0.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-26T17:40:50.909328 #15459]  INFO -- : 0:  json (1.8.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-01-26T17:40:50.910931 #15459]  INFO -- : 0:  tilt (1.4.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-26T17:40:50.911473 #15459]  INFO -- : 0:  sprockets (2.10.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-26T17:40:50.912815 #15459]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-26T17:40:50.914656 #15459]  INFO -- : 0:  rails (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-01-26T17:40:50.916575 #15459]  INFO -- : 0:  rdoc (4.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-01-26T17:40:50.917863 #15459]  INFO -- : 0:  rspec-support (3.0.0.beta1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-support-3.0.0.beta1.gemspec
+I, [2014-01-26T17:40:50.919639 #15459]  INFO -- : 0:  rspec-expectations (3.0.0.beta1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-3.0.0.beta1.gemspec
+I, [2014-01-26T17:40:50.920494 #15459]  INFO -- : 0:  rspec-collection_matchers (0.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-collection_matchers-0.0.2.gemspec
+I, [2014-01-26T17:40:50.921013 #15459]  INFO -- : 0:  rspec-core (3.0.0.beta1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-core-3.0.0.beta1.gemspec
+I, [2014-01-26T17:40:50.922593 #15459]  INFO -- : 0:  rspec-mocks (3.0.0.beta1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-3.0.0.beta1.gemspec
+I, [2014-01-26T17:40:50.926263 #15459]  INFO -- : 0:  rspec-rails (3.0.0.beta1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rspec-rails-3.0.0.beta1.gemspec
+I, [2014-01-26T17:40:50.932142 #15459]  INFO -- : 0:  sass (3.2.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-01-26T17:40:50.932485 #15459]  INFO -- : 0:  sass-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-26T17:40:50.933126 #15459]  INFO -- : 0:  sdoc (0.4.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-01-26T17:40:50.937111 #15459]  INFO -- : 0:  sqlite3 (1.3.8) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-01-26T17:40:50.937807 #15459]  INFO -- : 0:  turbolinks (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.0.gemspec
+I, [2014-01-26T17:40:50.939791 #15459]  INFO -- : 0:  uglifier (2.4.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-27T03:33:54.938146 #31359]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-27T03:33:54.943843 #31359]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-27T03:33:55.038212 #31359]  INFO -- : 0:  minitest (4.7.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-27T03:33:55.038997 #31359]  INFO -- : 0:  multi_json (1.8.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-27T03:33:55.040909 #31359]  INFO -- : 0:  atomic (1.1.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-27T03:33:55.049233 #31359]  INFO -- : 0:  thread_safe (0.1.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-27T03:33:55.050288 #31359]  INFO -- : 0:  tzinfo (0.3.38) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-27T03:33:55.050912 #31359]  INFO -- : 0:  activesupport (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-27T03:33:55.051642 #31359]  INFO -- : 0:  builder (3.1.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-27T03:33:55.052054 #31359]  INFO -- : 0:  erubis (2.7.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-27T03:33:55.052331 #31359]  INFO -- : 0:  rack (1.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-27T03:33:55.053349 #31359]  INFO -- : 0:  rack-test (0.6.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-27T03:33:55.053975 #31359]  INFO -- : 0:  actionpack (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-27T03:33:55.054483 #31359]  INFO -- : 0:  mime-types (1.25.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-27T03:33:55.055839 #31359]  INFO -- : 0:  polyglot (0.3.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-27T03:33:55.064151 #31359]  INFO -- : 0:  treetop (1.4.15) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-27T03:33:55.064721 #31359]  INFO -- : 0:  mail (2.5.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-27T03:33:55.065267 #31359]  INFO -- : 0:  actionmailer (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-27T03:33:55.068519 #31359]  INFO -- : 0:  activemodel (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-27T03:33:55.072075 #31359]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-27T03:33:55.073113 #31359]  INFO -- : 0:  arel (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-27T03:33:55.077001 #31359]  INFO -- : 0:  activerecord (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-27T03:33:55.078769 #31359]  INFO -- : 0:  bundler (1.5.0) from /home/dragon/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-01-27T03:33:55.080282 #31359]  INFO -- : 0:  mini_portile (0.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-27T03:33:55.081310 #31359]  INFO -- : 0:  nokogiri (1.6.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-27T03:33:55.082377 #31359]  INFO -- : 0:  xpath (2.0.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-01-27T03:33:55.083419 #31359]  INFO -- : 0:  capybara (2.2.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-01-27T03:33:55.085595 #31359]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-27T03:33:55.086513 #31359]  INFO -- : 0:  execjs (2.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-27T03:33:55.087811 #31359]  INFO -- : 0:  coffee-script (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-27T03:33:55.088614 #31359]  INFO -- : 0:  thor (0.18.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-27T03:33:55.089904 #31359]  INFO -- : 0:  railties (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-27T03:33:55.091955 #31359]  INFO -- : 0:  coffee-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-27T03:33:55.093243 #31359]  INFO -- : 0:  diff-lcs (1.2.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-01-27T03:33:55.094349 #31359]  INFO -- : 0:  hike (1.2.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-27T03:33:55.095462 #31359]  INFO -- : 0:  jbuilder (1.5.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-27T03:33:55.096433 #31359]  INFO -- : 0:  jquery-rails (3.0.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-27T03:33:57.857035 #31359]  INFO -- : 0:  json (1.8.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+E, [2014-01-27T03:34:09.509831 #31359] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/dragon/.rvm/gems/ruby-2.1.0/gems/pg-0.17.1 for inspection.
+Results logged to /home/dragon/.rvm/gems/ruby-2.1.0/extensions/x86-linux/2.1.0/pg-0.17.1/gem_make.out
+
+/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-01-27T03:45:59.465553 #31585]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-27T03:45:59.466523 #31585]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-27T03:45:59.542268 #31585]  INFO -- : 0:  minitest (4.7.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-27T03:45:59.543211 #31585]  INFO -- : 0:  multi_json (1.8.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-27T03:45:59.543819 #31585]  INFO -- : 0:  atomic (1.1.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-27T03:45:59.544406 #31585]  INFO -- : 0:  thread_safe (0.1.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-27T03:45:59.544924 #31585]  INFO -- : 0:  tzinfo (0.3.38) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-27T03:45:59.546057 #31585]  INFO -- : 0:  activesupport (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-27T03:45:59.546871 #31585]  INFO -- : 0:  builder (3.1.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-27T03:45:59.547426 #31585]  INFO -- : 0:  erubis (2.7.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-27T03:45:59.548108 #31585]  INFO -- : 0:  rack (1.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-27T03:45:59.549027 #31585]  INFO -- : 0:  rack-test (0.6.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-27T03:45:59.549636 #31585]  INFO -- : 0:  actionpack (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-27T03:45:59.550302 #31585]  INFO -- : 0:  mime-types (1.25.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-27T03:45:59.550822 #31585]  INFO -- : 0:  polyglot (0.3.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-27T03:45:59.551617 #31585]  INFO -- : 0:  treetop (1.4.15) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-27T03:45:59.551869 #31585]  INFO -- : 0:  mail (2.5.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-27T03:45:59.552652 #31585]  INFO -- : 0:  actionmailer (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-27T03:45:59.553471 #31585]  INFO -- : 0:  activemodel (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-27T03:45:59.554042 #31585]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-27T03:45:59.554673 #31585]  INFO -- : 0:  arel (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-27T03:45:59.555722 #31585]  INFO -- : 0:  activerecord (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-27T03:45:59.556351 #31585]  INFO -- : 0:  bundler (1.5.0) from /home/dragon/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-01-27T03:45:59.556903 #31585]  INFO -- : 0:  mini_portile (0.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-27T03:45:59.557384 #31585]  INFO -- : 0:  nokogiri (1.6.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-27T03:45:59.557930 #31585]  INFO -- : 0:  xpath (2.0.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-01-27T03:45:59.558457 #31585]  INFO -- : 0:  capybara (2.2.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-01-27T03:45:59.558971 #31585]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-27T03:45:59.559030 #31585]  INFO -- : 0:  execjs (2.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-27T03:45:59.559801 #31585]  INFO -- : 0:  coffee-script (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-27T03:45:59.560337 #31585]  INFO -- : 0:  thor (0.18.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-27T03:45:59.560840 #31585]  INFO -- : 0:  railties (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-27T03:45:59.561359 #31585]  INFO -- : 0:  coffee-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-27T03:45:59.561901 #31585]  INFO -- : 0:  diff-lcs (1.2.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-01-27T03:45:59.562361 #31585]  INFO -- : 0:  hike (1.2.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-27T03:45:59.562889 #31585]  INFO -- : 0:  jbuilder (1.5.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-27T03:45:59.563423 #31585]  INFO -- : 0:  jquery-rails (3.0.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-27T03:46:01.960833 #31585]  INFO -- : 0:  json (1.8.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+E, [2014-01-27T03:46:02.731260 #31585] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/dragon/.rvm/gems/ruby-2.1.0/gems/pg-0.17.1 for inspection.
+Results logged to /home/dragon/.rvm/gems/ruby-2.1.0/extensions/x86-linux/2.1.0/pg-0.17.1/gem_make.out
+
+/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-01-27T03:55:41.129333 #31688]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-27T03:55:41.131313 #31688]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-27T03:55:41.202788 #31688]  INFO -- : 0:  minitest (4.7.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-27T03:55:41.203845 #31688]  INFO -- : 0:  multi_json (1.8.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-27T03:55:41.204337 #31688]  INFO -- : 0:  atomic (1.1.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-27T03:55:41.205185 #31688]  INFO -- : 0:  thread_safe (0.1.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-27T03:55:41.206141 #31688]  INFO -- : 0:  tzinfo (0.3.38) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-27T03:55:41.207113 #31688]  INFO -- : 0:  activesupport (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-27T03:55:41.208927 #31688]  INFO -- : 0:  builder (3.1.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-27T03:55:41.210119 #31688]  INFO -- : 0:  erubis (2.7.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-27T03:55:41.211585 #31688]  INFO -- : 0:  rack (1.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-27T03:55:41.213036 #31688]  INFO -- : 0:  rack-test (0.6.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-27T03:55:41.213989 #31688]  INFO -- : 0:  actionpack (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-27T03:55:41.214963 #31688]  INFO -- : 0:  mime-types (1.25.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-27T03:55:41.215682 #31688]  INFO -- : 0:  polyglot (0.3.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-27T03:55:41.216293 #31688]  INFO -- : 0:  treetop (1.4.15) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-27T03:55:41.217100 #31688]  INFO -- : 0:  mail (2.5.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-27T03:55:41.218024 #31688]  INFO -- : 0:  actionmailer (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-27T03:55:41.219112 #31688]  INFO -- : 0:  activemodel (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-27T03:55:41.220202 #31688]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-27T03:55:41.220984 #31688]  INFO -- : 0:  arel (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-27T03:55:41.221941 #31688]  INFO -- : 0:  activerecord (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-27T03:55:41.223527 #31688]  INFO -- : 0:  bundler (1.5.0) from /home/dragon/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-01-27T03:55:41.224604 #31688]  INFO -- : 0:  mini_portile (0.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-27T03:55:41.225861 #31688]  INFO -- : 0:  nokogiri (1.6.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-27T03:55:41.226884 #31688]  INFO -- : 0:  xpath (2.0.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-01-27T03:55:41.227786 #31688]  INFO -- : 0:  capybara (2.2.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-01-27T03:55:41.228342 #31688]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-27T03:55:41.229262 #31688]  INFO -- : 0:  execjs (2.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-27T03:55:41.230063 #31688]  INFO -- : 0:  coffee-script (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-27T03:55:41.230872 #31688]  INFO -- : 0:  thor (0.18.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-27T03:55:41.231950 #31688]  INFO -- : 0:  railties (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-27T03:55:41.232904 #31688]  INFO -- : 0:  coffee-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-27T03:55:41.243640 #31688]  INFO -- : 0:  diff-lcs (1.2.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-01-27T03:55:41.244146 #31688]  INFO -- : 0:  hike (1.2.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-27T03:55:41.244852 #31688]  INFO -- : 0:  jbuilder (1.5.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-27T03:55:41.245463 #31688]  INFO -- : 0:  jquery-rails (3.0.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-27T03:55:43.560797 #31688]  INFO -- : 0:  json (1.8.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+E, [2014-01-27T03:55:44.116961 #31688] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/dragon/.rvm/gems/ruby-2.1.0/gems/pg-0.17.1 for inspection.
+Results logged to /home/dragon/.rvm/gems/ruby-2.1.0/extensions/x86-linux/2.1.0/pg-0.17.1/gem_make.out
+
+/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-01-27T04:04:44.392112 #31803]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-27T04:04:44.393275 #31803]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-27T04:04:44.536105 #31803]  INFO -- : 0:  minitest (4.7.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-27T04:04:44.536882 #31803]  INFO -- : 0:  multi_json (1.8.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-27T04:04:44.537416 #31803]  INFO -- : 0:  atomic (1.1.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-27T04:04:44.538082 #31803]  INFO -- : 0:  thread_safe (0.1.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-27T04:04:44.538777 #31803]  INFO -- : 0:  tzinfo (0.3.38) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-27T04:04:44.539452 #31803]  INFO -- : 0:  activesupport (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-27T04:04:44.540069 #31803]  INFO -- : 0:  builder (3.1.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-27T04:04:44.540734 #31803]  INFO -- : 0:  erubis (2.7.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-27T04:04:44.541412 #31803]  INFO -- : 0:  rack (1.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-27T04:04:44.542069 #31803]  INFO -- : 0:  rack-test (0.6.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-27T04:04:44.542723 #31803]  INFO -- : 0:  actionpack (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-27T04:04:44.543866 #31803]  INFO -- : 0:  mime-types (1.25.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-27T04:04:44.544804 #31803]  INFO -- : 0:  polyglot (0.3.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-27T04:04:44.545703 #31803]  INFO -- : 0:  treetop (1.4.15) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-27T04:04:44.546521 #31803]  INFO -- : 0:  mail (2.5.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-27T04:04:44.547367 #31803]  INFO -- : 0:  actionmailer (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-27T04:04:44.548447 #31803]  INFO -- : 0:  activemodel (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-27T04:04:44.549164 #31803]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-27T04:04:44.549946 #31803]  INFO -- : 0:  arel (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-27T04:04:44.551890 #31803]  INFO -- : 0:  activerecord (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-27T04:04:44.552935 #31803]  INFO -- : 0:  bundler (1.5.0) from /home/dragon/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-01-27T04:04:44.553825 #31803]  INFO -- : 0:  mini_portile (0.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-27T04:04:44.554503 #31803]  INFO -- : 0:  nokogiri (1.6.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-27T04:04:44.555315 #31803]  INFO -- : 0:  xpath (2.0.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-01-27T04:04:44.556031 #31803]  INFO -- : 0:  capybara (2.2.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-01-27T04:04:44.557133 #31803]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-27T04:04:44.558075 #31803]  INFO -- : 0:  execjs (2.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-27T04:04:44.558820 #31803]  INFO -- : 0:  coffee-script (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-27T04:04:44.559613 #31803]  INFO -- : 0:  thor (0.18.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-27T04:04:44.563186 #31803]  INFO -- : 0:  railties (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-27T04:04:44.563882 #31803]  INFO -- : 0:  coffee-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-27T04:04:44.564581 #31803]  INFO -- : 0:  diff-lcs (1.2.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-01-27T04:04:44.565583 #31803]  INFO -- : 0:  hike (1.2.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-27T04:04:44.567192 #31803]  INFO -- : 0:  jbuilder (1.5.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-27T04:04:44.569057 #31803]  INFO -- : 0:  jquery-rails (3.0.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-27T04:04:46.745699 #31803]  INFO -- : 0:  json (1.8.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+E, [2014-01-27T04:04:47.659844 #31803] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/dragon/.rvm/gems/ruby-2.1.0/gems/pg-0.17.1 for inspection.
+Results logged to /home/dragon/.rvm/gems/ruby-2.1.0/extensions/x86-linux/2.1.0/pg-0.17.1/gem_make.out
+
+/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-01-27T04:10:16.933349 #31902]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-27T04:10:16.939963 #31902]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-27T04:10:17.135247 #31902]  INFO -- : 0:  minitest (4.7.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-27T04:10:17.135644 #31902]  INFO -- : 0:  multi_json (1.8.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-27T04:10:17.136079 #31902]  INFO -- : 0:  atomic (1.1.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-27T04:10:17.136917 #31902]  INFO -- : 0:  thread_safe (0.1.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-27T04:10:17.137390 #31902]  INFO -- : 0:  tzinfo (0.3.38) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-27T04:10:17.137889 #31902]  INFO -- : 0:  activesupport (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-27T04:10:17.138842 #31902]  INFO -- : 0:  builder (3.1.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-27T04:10:17.140045 #31902]  INFO -- : 0:  erubis (2.7.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-27T04:10:17.141251 #31902]  INFO -- : 0:  rack (1.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-27T04:10:17.142609 #31902]  INFO -- : 0:  rack-test (0.6.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-27T04:10:17.144555 #31902]  INFO -- : 0:  actionpack (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-27T04:10:17.145638 #31902]  INFO -- : 0:  mime-types (1.25.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-27T04:10:17.147421 #31902]  INFO -- : 0:  polyglot (0.3.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-27T04:10:17.148360 #31902]  INFO -- : 0:  treetop (1.4.15) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-27T04:10:17.149365 #31902]  INFO -- : 0:  mail (2.5.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-27T04:10:17.151592 #31902]  INFO -- : 0:  actionmailer (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-27T04:10:17.153358 #31902]  INFO -- : 0:  activemodel (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-27T04:10:17.154466 #31902]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-27T04:10:17.155380 #31902]  INFO -- : 0:  arel (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-27T04:10:17.156137 #31902]  INFO -- : 0:  activerecord (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-27T04:10:17.156993 #31902]  INFO -- : 0:  bundler (1.5.0) from /home/dragon/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-01-27T04:10:17.158140 #31902]  INFO -- : 0:  mini_portile (0.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-27T04:10:17.159032 #31902]  INFO -- : 0:  nokogiri (1.6.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-27T04:10:17.161435 #31902]  INFO -- : 0:  xpath (2.0.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-01-27T04:10:17.162525 #31902]  INFO -- : 0:  capybara (2.2.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-01-27T04:10:17.164126 #31902]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-27T04:10:17.171948 #31902]  INFO -- : 0:  execjs (2.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-27T04:10:17.172616 #31902]  INFO -- : 0:  coffee-script (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-27T04:10:17.173360 #31902]  INFO -- : 0:  thor (0.18.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-27T04:10:17.173902 #31902]  INFO -- : 0:  railties (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-27T04:10:17.174475 #31902]  INFO -- : 0:  coffee-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-27T04:10:17.174869 #31902]  INFO -- : 0:  diff-lcs (1.2.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-01-27T04:10:17.185059 #31902]  INFO -- : 0:  hike (1.2.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-27T04:10:17.185755 #31902]  INFO -- : 0:  jbuilder (1.5.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-27T04:10:17.186168 #31902]  INFO -- : 0:  jquery-rails (3.0.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-27T04:10:20.519012 #31902]  INFO -- : 0:  json (1.8.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+E, [2014-01-27T04:10:21.435549 #31902] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/dragon/.rvm/gems/ruby-2.1.0/gems/pg-0.17.1 for inspection.
+Results logged to /home/dragon/.rvm/gems/ruby-2.1.0/extensions/x86-linux/2.1.0/pg-0.17.1/gem_make.out
+
+/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-01-27T04:20:49.518529 #31995]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-27T04:20:49.528236 #31995]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-27T04:20:49.600680 #31995]  INFO -- : 0:  minitest (4.7.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-27T04:20:49.601703 #31995]  INFO -- : 0:  multi_json (1.8.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-27T04:20:49.602489 #31995]  INFO -- : 0:  atomic (1.1.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-27T04:20:49.603219 #31995]  INFO -- : 0:  thread_safe (0.1.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-27T04:20:49.603911 #31995]  INFO -- : 0:  tzinfo (0.3.38) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-27T04:20:49.604480 #31995]  INFO -- : 0:  activesupport (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-27T04:20:49.605492 #31995]  INFO -- : 0:  builder (3.1.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-27T04:20:49.606426 #31995]  INFO -- : 0:  erubis (2.7.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-27T04:20:49.607241 #31995]  INFO -- : 0:  rack (1.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-27T04:20:49.607773 #31995]  INFO -- : 0:  rack-test (0.6.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-27T04:20:49.609664 #31995]  INFO -- : 0:  actionpack (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-27T04:20:49.610802 #31995]  INFO -- : 0:  mime-types (1.25.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-27T04:20:49.616986 #31995]  INFO -- : 0:  polyglot (0.3.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-27T04:20:49.617726 #31995]  INFO -- : 0:  treetop (1.4.15) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-27T04:20:49.618277 #31995]  INFO -- : 0:  mail (2.5.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-27T04:20:49.618659 #31995]  INFO -- : 0:  actionmailer (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-27T04:20:49.631778 #31995]  INFO -- : 0:  activemodel (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-27T04:20:49.632386 #31995]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-27T04:20:49.632811 #31995]  INFO -- : 0:  arel (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-27T04:20:49.633170 #31995]  INFO -- : 0:  activerecord (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-27T04:20:49.633531 #31995]  INFO -- : 0:  bundler (1.5.0) from /home/dragon/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-01-27T04:20:49.633863 #31995]  INFO -- : 0:  mini_portile (0.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-27T04:20:49.634209 #31995]  INFO -- : 0:  nokogiri (1.6.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-27T04:20:49.635640 #31995]  INFO -- : 0:  xpath (2.0.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-01-27T04:20:49.636021 #31995]  INFO -- : 0:  capybara (2.2.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-01-27T04:20:49.636369 #31995]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-27T04:20:49.637767 #31995]  INFO -- : 0:  execjs (2.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-27T04:20:49.638254 #31995]  INFO -- : 0:  coffee-script (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-27T04:20:49.638560 #31995]  INFO -- : 0:  thor (0.18.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-27T04:20:49.638600 #31995]  INFO -- : 0:  railties (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-27T04:20:49.639341 #31995]  INFO -- : 0:  coffee-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-27T04:20:49.639669 #31995]  INFO -- : 0:  diff-lcs (1.2.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-01-27T04:20:49.640022 #31995]  INFO -- : 0:  hike (1.2.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-27T04:20:49.640479 #31995]  INFO -- : 0:  jbuilder (1.5.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-27T04:20:49.640852 #31995]  INFO -- : 0:  jquery-rails (3.0.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-27T04:20:52.803839 #31995]  INFO -- : 0:  json (1.8.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+E, [2014-01-27T04:20:53.596153 #31995] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/dragon/.rvm/rubies/ruby-2.1.0/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/dragon/.rvm/gems/ruby-2.1.0/gems/pg-0.17.1 for inspection.
+Results logged to /home/dragon/.rvm/gems/ruby-2.1.0/extensions/x86-linux/2.1.0/pg-0.17.1/gem_make.out
+
+/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-01-27T04:32:19.618785 #32188]  INFO -- : 0:  rake (10.1.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-27T04:32:19.620821 #32188]  INFO -- : 0:  i18n (0.6.9) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-27T04:32:19.742591 #32188]  INFO -- : 0:  minitest (4.7.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-27T04:32:19.743296 #32188]  INFO -- : 0:  multi_json (1.8.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-27T04:32:19.743804 #32188]  INFO -- : 0:  atomic (1.1.14) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-27T04:32:19.744676 #32188]  INFO -- : 0:  thread_safe (0.1.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-27T04:32:19.745185 #32188]  INFO -- : 0:  tzinfo (0.3.38) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-27T04:32:19.745704 #32188]  INFO -- : 0:  activesupport (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-27T04:32:19.746198 #32188]  INFO -- : 0:  builder (3.1.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-27T04:32:19.746718 #32188]  INFO -- : 0:  erubis (2.7.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-27T04:32:19.747141 #32188]  INFO -- : 0:  rack (1.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-27T04:32:19.748457 #32188]  INFO -- : 0:  rack-test (0.6.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-27T04:32:19.756227 #32188]  INFO -- : 0:  actionpack (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-27T04:32:19.757504 #32188]  INFO -- : 0:  mime-types (1.25.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-27T04:32:19.758187 #32188]  INFO -- : 0:  polyglot (0.3.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-27T04:32:19.758837 #32188]  INFO -- : 0:  treetop (1.4.15) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-27T04:32:19.759348 #32188]  INFO -- : 0:  mail (2.5.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-27T04:32:19.759720 #32188]  INFO -- : 0:  actionmailer (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-27T04:32:19.762925 #32188]  INFO -- : 0:  activemodel (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-27T04:32:19.763604 #32188]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-27T04:32:19.767455 #32188]  INFO -- : 0:  arel (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-27T04:32:19.768085 #32188]  INFO -- : 0:  activerecord (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-27T04:32:19.768873 #32188]  INFO -- : 0:  bundler (1.5.0) from /home/dragon/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-01-27T04:32:19.775875 #32188]  INFO -- : 0:  mini_portile (0.5.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-27T04:32:19.777522 #32188]  INFO -- : 0:  nokogiri (1.6.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-27T04:32:19.778879 #32188]  INFO -- : 0:  xpath (2.0.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-01-27T04:32:19.781181 #32188]  INFO -- : 0:  capybara (2.2.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-01-27T04:32:19.782461 #32188]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-27T04:32:19.788093 #32188]  INFO -- : 0:  execjs (2.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-27T04:32:19.789447 #32188]  INFO -- : 0:  coffee-script (2.2.0) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-27T04:32:19.790740 #32188]  INFO -- : 0:  thor (0.18.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-27T04:32:19.792279 #32188]  INFO -- : 0:  railties (4.0.2) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-27T04:32:19.793247 #32188]  INFO -- : 0:  coffee-rails (4.0.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-27T04:32:19.794194 #32188]  INFO -- : 0:  diff-lcs (1.2.5) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-01-27T04:32:19.795776 #32188]  INFO -- : 0:  hike (1.2.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-27T04:32:19.796523 #32188]  INFO -- : 0:  jbuilder (1.5.3) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-27T04:32:19.798750 #32188]  INFO -- : 0:  jquery-rails (3.0.4) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-27T04:32:22.623984 #32188]  INFO -- : 0:  json (1.8.1) from /home/dragon/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+E, [2014-01-27T04:32:22.747270 #32188] ERROR -- : Errno::EACCES: Permission denied @ rb_sysopen - /home/dragon/.rvm/gems/ruby-2.1.0/gems/pg-0.17.1/.gemtest
+/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/open-uri.rb:36:in `initialize'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/open-uri.rb:36:in `open'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/open-uri.rb:36:in `open'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package.rb:359:in `block (2 levels) in extract_tar_gz'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package/tar_reader.rb:64:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package.rb:341:in `block in extract_tar_gz'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package.rb:432:in `block in open_tar_gz'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package.rb:429:in `wrap'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package.rb:429:in `open_tar_gz'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package.rb:340:in `extract_tar_gz'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package.rb:321:in `block (2 levels) in extract_files'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package/tar_reader.rb:64:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package.rb:318:in `block in extract_files'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/open-uri.rb:36:in `open'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/open-uri.rb:36:in `open'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/package.rb:315:in `extract_files'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:697:in `extract_files'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:230:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/dragon/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/dragon/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
